@@ -1,0 +1,1 @@
+Esse é um programa bem simples que vai apenas pedir um número ao usuário e mostrar a Unidade, Dezena, Centena e o Milhar desse número. Sendo ele de 0 a 9999.
